@@ -1,4 +1,4 @@
 # Tricks
-1. sit
-2. laydown
-3. playdead
+1. Sit
+2. Lay down
+3. Bang
