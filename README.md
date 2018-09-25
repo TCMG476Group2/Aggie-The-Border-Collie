@@ -1,6 +1,7 @@
 ### [Tricks](Tricks.md) * [About Me](Aboutme.md) * [Home](README.md)
 # Home
-Howdy, and welcome to Aggie The Border Collie's Fan Page!  
+<p "center"> Howdy, and welcome to Aggie The Border Collie's Fan Page!
+</p> 
 Your home for all things Aggie, and Border Collie related.  
 <https://www.instagram.com/aggiethebordercollie/>  
 
