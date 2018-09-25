@@ -1,6 +1,6 @@
 # Home
 Howdy, and welcome to Aggie The Border Collie's Fan Page!  
-Your home for all things tech, and Aggie related.  
+A page where you can find all the information about Aggie The Border Collie!  
 <https://www.instagram.com/aggiethebordercollie/>  
 
 Monday            | Friday             
