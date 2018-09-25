@@ -1,3 +1,4 @@
+### [Tricks](Tricks.md) * [About Me](Aboutme.md) * [Home](README.md)
 # Tricks
 1. Sit
 2. Lay down
