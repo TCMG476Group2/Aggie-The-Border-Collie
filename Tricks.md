@@ -8,3 +8,4 @@
 7. Scout
 8. Jump
 9. Longhorn
+10. Hold
