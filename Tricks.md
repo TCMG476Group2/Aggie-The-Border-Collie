@@ -2,3 +2,8 @@
 1. Sit
 2. Lay down
 3. Bang
+4. Stand
+5. Paw
+6. Come around
+7. Scout
+8. Jump
