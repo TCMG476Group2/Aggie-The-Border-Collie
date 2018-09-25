@@ -1,4 +1,4 @@
-### [Tricks](Tricks.md) * [About Me](Aboutme.md) * [Home](README.md)
+### [Home](README.md) * [About Me](Aboutme.md) * [Tricks](Tricks.md)
 # Home
 <p "center"> Howdy, and welcome to Aggie The Border Collie's Fan Page!
 </p> 
