@@ -11,4 +11,4 @@ Monday            | Friday
 
 Living my Best Life|Hate my Life...              
 :-----------------:|:-----------------:
-![screen shot 2018-09-25 at 10 01 11 pm](https://user-images.githubusercontent.com/43384564/46055041-ab745c00-c10f-11e8-822b-08c38625bab0.png)|![screen shot 2018-09-25 at 10 00 12 pm](https://user-images.githubusercontent.com/43384564/46055055-b7f8b480-c10f-11e8-89bb-818b2453ec05.png)
+![screen shot 2018-09-25 at 10 01 11 pm](https://user-images.githubusercontent.com/43384564/46055135-1de53c00-c110-11e8-8396-b7d74eeb1d0d.png)|![screen shot 2018-09-25 at 10 00 12 pm](https://user-images.githubusercontent.com/43384564/46055146-25a4e080-c110-11e8-837b-f56a8851d838.png)
