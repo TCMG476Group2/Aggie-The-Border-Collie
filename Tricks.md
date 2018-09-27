@@ -8,7 +8,7 @@
 
 3. Bang
 
-   ![bang](bang.gif)
+   ![bang](IMG_4281.gif)
 4. Stand
 
   ![stand](IMG_4279.gif)
