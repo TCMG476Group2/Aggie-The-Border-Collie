@@ -6,7 +6,7 @@
 
 2. Roll Over
 
-  ![bang](IMG_4287.gif)
+   ![bang](IMG_4287.gif)
 
 3. Bang
 
@@ -35,6 +35,7 @@
 9. Longhorn
 
   ![jump](IMG_4285.gif)
+
 10. Hold
 
   ![hold](IMG_4286.gif)
