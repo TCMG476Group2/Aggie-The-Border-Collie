@@ -32,7 +32,7 @@
 
   ![jump](IMG_4283.gif)
   
-9. Longhorn
+9. Would you rather be a Longhorn or be dead?
 
   ![jump](IMG_4285.gif)
 
