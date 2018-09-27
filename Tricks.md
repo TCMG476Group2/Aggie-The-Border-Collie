@@ -1,4 +1,4 @@
-### [Home](README.md) * [About Me](Aboutme.md) * [Tricks](Tricks.md)
+### [Home](README.md) • [About Me](Aboutme.md) • [Tricks](Tricks.md)
 # Tricks
 1. Sit
   
