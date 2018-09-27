@@ -21,10 +21,17 @@
 
 6. Come around
 
+  ![jump](IMG_4284.gif)
+
 7. Scout
 
   ![scout](IMG_4282.gif)
 
 8. Jump
+
+  ![jump](IMG_4283.gif)
+  
 9. Longhorn
+
+  ![jump](IMG_4285.gif)
 10. Hold
