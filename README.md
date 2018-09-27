@@ -1,4 +1,4 @@
-### [Home](README.md) * [About Me](Aboutme.md) * [Tricks](Tricks.md)
+### [Home](README.md) • [About Me](Aboutme.md) • [Tricks](Tricks.md)
 # Home
 Howdy, and welcome to Aggie The Border Collie's Fan Page!  
 A page where you can find all the information about Aggie The Border Collie!  
