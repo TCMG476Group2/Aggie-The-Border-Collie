@@ -11,7 +11,7 @@
    ![bang](bang.gif)
 4. Stand
 
-
+  ![stand](IMG_4279.gif)
 5. Paw
 
 ![paw](IMG_4278.gif)
