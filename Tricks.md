@@ -4,8 +4,9 @@
   
   ![sit](IMG_4277.gif)
 
-2. Lay down
+2. Roll Over
 
+  ![bang](IMG_4287.gif)
 
 3. Bang
 
@@ -35,3 +36,5 @@
 
   ![jump](IMG_4285.gif)
 10. Hold
+
+  ![hold](IMG_4286.gif)
