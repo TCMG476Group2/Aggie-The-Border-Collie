@@ -1,4 +1,4 @@
-### [Home](README.md) * [About Me](Aboutme.md) * [Tricks](Tricks.md)
+### [Home](README.md) • [About Me](Aboutme.md) • [Tricks](Tricks.md)
 Fun Facts:
 1. Im a 2 year old border collie
 2. My grandparents have my younger blood related sister
