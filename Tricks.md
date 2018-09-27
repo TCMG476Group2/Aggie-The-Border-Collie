@@ -1,16 +1,16 @@
 ### [Home](README.md) * [About Me](Aboutme.md) * [Tricks](Tricks.md)
 # Tricks
-1. Sit
+1. <big>Sit</big>
   
   ![sit](IMG_4277.gif)
 
 2. Roll Over
 
-   ![bang](IMG_4287.gif)
+  ![bang](IMG_4287.gif)
 
 3. Bang
 
-   ![bang](IMG_4281.gif)
+  ![bang](IMG_4281.gif)
 
 4. Stand
 
