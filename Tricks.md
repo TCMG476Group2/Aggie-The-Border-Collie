@@ -1,6 +1,6 @@
 ### [Home](README.md) * [About Me](Aboutme.md) * [Tricks](Tricks.md)
 # Tricks
-1. <big>Sit</big>
+1. Sit
   
   ![sit](IMG_4277.gif)
 
